@@ -5,7 +5,7 @@
 <p> -->
 
 <p>I AM NIDHI KUMARI<br>FIRST YEAR MCA STUDENT AT NIT JAMSHEDPUR</p><br>
-<h2>SKILLS</h2> 
+<h2>TECHNICAL SKILLS</h2> 
 <!--<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=green">-->
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=blue">
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=blue">
