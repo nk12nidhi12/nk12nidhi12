@@ -17,4 +17,4 @@
 <h2>LinkedIn Profile</h2>
 
 
-<a href="https://www.linkedin.com/in/nidhi-k-05123218b/"><alt="icon | LinkedIn” width=”21px”/>></a>
+<a href="https://www.linkedin.com/in/nidhi-k-05123218b/" alt="icon | LinkedIn” width=”21px”/>></a>
