@@ -5,4 +5,4 @@
 <p> -->
 
 <p>I AM NIDHI KUMARI<br>FIRST YEAR MCA STUDENT AT NIT JAMSHEDPUR</p><br>
-<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=green">
