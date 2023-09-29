@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **nk12nidhi12/nk12nidhi12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->i
-
-<img src="https://github.com/nk12nidhi12/nk12nidhi12/assets/126282502/dd1473bc-04c9-43c3-ab31-6bffd3dc76bf" alt="My banner">
+-->
+<p><align="center">
+<img width="200" height="200" src="https://github.com/nk12nidhi12/nk12nidhi12/assets/126282502/dd1473bc-04c9-43c3-ab31-6bffd3dc76bf" alt="My banner">
+</p>
