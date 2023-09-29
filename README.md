@@ -14,4 +14,5 @@
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 
 <h2>LinkedIn Profile</h2>
-<a href="https://www.linkedin.com/in/nidhi-k-05123218b/"></a>
+
+<a href="https://www.linkedin.com/in/nidhi-k-05123218b/">Visit Profile</a>
