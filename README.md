@@ -17,3 +17,4 @@
 <h2>LinkedIn Profile</h2>
 
 <a href="https://www.linkedin.com/in/nidhi-k-05123218b/">Visit Profile</a>
+[![An image of @nk12nidhi12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nk12nidhi12)](https://holopin.io/@nk12nidhi12)
