@@ -4,7 +4,7 @@
 </p>
 <p> -->
 
-<p>I AM NIDHI KUMARI<br>FIRST YEAR MCA STUDENT AT NIT JAMSHEDPUR</p><br>
+<p>I AM NIDHI KUMARI<br>FINAL YEAR MCA STUDENT AT NIT JAMSHEDPUR</p><br>
 <h2>TECHNICAL SKILLS</h2> 
 <!--<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=green">-->
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=blue">
@@ -12,7 +12,8 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white">
+
 
 <h2>LinkedIn Profile</h2>
 
