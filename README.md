@@ -4,7 +4,7 @@
 </p>
 <p> -->
 
-<p>I AM NIDHI KUMARI<br>FINAL YEAR MCA STUDENT AT NIT JAMSHEDPUR</p><br>
+<p>I AM NIDHI KUMARI<br>FINAL YEAR MCA STUDENT AT NIT JAMSHEDPUR</p>
 <h2>TECHNICAL SKILLS</h2> 
 <!--<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=green">-->
 <div style="display: flex; flex-wrap: wrap; gap: 10px; max-width: 500px;">
